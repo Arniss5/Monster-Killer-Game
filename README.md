@@ -1,13 +1,29 @@
-# coc0444f5aa8d25f994ea9ede
+# Monster Killer Game
 
-## About Scrimba
+In this dice game you fight as a wizard against three monsters.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Links
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Code: [Github](https://github.com/Arniss5/Monster-Killer-Game)
+Live demo: [Github Pages](https://arniss5.github.io/Monster-Killer-Game/)
 
-Happy Coding!
+## Learned/practiced
+- JS classes
+- constructor function
+- 'this' keyword
+- Object.assign()
+- import/export
+- .reduce(), .map() 
+- ternary operator
+- arrow functions
+- setTimeout()
+- object destructuring
+- creating new arrays with Array constructor
+- .join(),  .fill()
+
+## Stretch goals to do:
+
+- Add realistic dice
+- Change the rules of the game
+- Add more heroes
+- Restyle the entire app
