@@ -1,5 +1,6 @@
 import { getDiceRollArray, getDicePlaceholderHtml, getPercentage } from './utils.js'
 
+
 class Character {
     constructor(data) {
         Object.assign(this, data)
